@@ -1,0 +1,11 @@
+public class DistanceMaximizing {
+
+	public static void main(String[] args) {
+		int arr[] =  {34, 8, 10, 3, 2, 80, 30, 33, 1};
+		int maxDiff = maxIndexDiff(arr);
+		System.out.println(maxDiff);
+	}
+	
+	private static int maxIndexDiff(int[] arr) {
+	}
+	}
