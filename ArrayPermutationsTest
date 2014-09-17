@@ -1,0 +1,14 @@
+
+public class ArrayPermutationsTest {
+
+	public static void main(String[] args) {
+		int[] a = { 1, 2, 3, 4 };
+		arrayPermute(a, 0);
+
+	}
+	
+	private static void arrayPermute(int[] a, int pos) {
+		 
+	}
+
+}
